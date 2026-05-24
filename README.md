@@ -488,19 +488,6 @@ using the SIM800L GSM module.
 
 ---
 
-# Repository Structure
-
-```text
-NAVISECURE/
-│
-├── navisecure_face_auth.py
-├── navisecure_esp32_bt.ino
-├── navisecure_arduino_controller.ino
-├── driver_template.jpg
-├── README.md
-└── docs/
-```
-
 ---
 
 # Technologies Used
